@@ -6,7 +6,7 @@ I'm a student at BYU Idaho passionate about front-end development and UI. Here y
 
 ## Projects
 
-1. [Personal Portfolio Website]([https://jarom-bradshaw.github.io/wdd130/final-project/index.htm])) - My personal portfolio website showcasing my skills and projects.
+1. [Personal Portfolio Website](([https://jarom-bradshaw.github.io/wdd130/final-project/index.htm])) - My personal portfolio website showcasing my skills and projects.
 2. Pygame Game - A game built with Pygame.
 3. Graphical Interface with Python - A graphical interface built using Python.
    
