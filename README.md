@@ -1,6 +1,6 @@
 # Hi there, I'm Jarom Bradshaw 👋
 
-I'm a student at BYU Idaho passionate about front-end development and UI. Look through my repos to find some of my projects:
+I'm a student at BYU Idaho passionate about back-end development and statistical analysis. Look through my repos to find some of my projects:
 
 ![image](https://github.com/jarom-bradshaw/jarom-bradshaw/assets/156943555/16b9ddf3-b5f3-4b88-ba08-a9f035a5fb5a)
 
